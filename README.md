@@ -134,7 +134,7 @@ This section provides detailed instructions for creating the minimal thermal mod
      +-------------+         +-------------------+
    ```
 
-   ![Minimal Thermal Model Diagram](MinimalThermalModel.slx.png)
+   ![Minimal Thermal Model Diagram](https://raw.githubusercontent.com/fouz0003/MinimalThermalModel/main/MinimalThermalModel.slx.png)
 
 9. **Enable Temperature Logging**
    - Right-click on the thermal port (connection point `A`) of the `Thermal Mass` block
@@ -279,7 +279,7 @@ Follow these detailed steps to create the more complex residential building TES 
 9. **Save Your Model**
    - Ensure block names inside subsystems match the paths used in `runResUnitHeatingSim.m` (e.g., `Sand_TES/Thermal Mass`)
 
-   ![Residential Building TES Model Diagram](ResidentialBuildingTESandPVcell.slx.png)
+   ![Residential Building TES Model Diagram](https://raw.githubusercontent.com/fouz0003/MinimalThermalModel/main/ResidentialBuildingTESandPVcell.slx.png)
 
 ## Running the Full Residential Building Simulation
 
